@@ -22,6 +22,8 @@
 #Project : WA_CRASHER             #
 #Type    : Whatsapp Crasher       #
 ###################################
+
+
 import os
 import colorama
 import time
@@ -36,8 +38,6 @@ M = Fore.MAGENTA
 W = Fore.WHITE
 try:
 	import colorama
-except ModuleNotFoundError:
-	print("Requests is not Installed")
 	os.system("pip install colorama")
 
 logo = f"""

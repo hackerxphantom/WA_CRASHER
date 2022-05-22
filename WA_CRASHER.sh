@@ -23,23 +23,6 @@
 #Type    : Whatsapp Crasher       #
 ###################################
 
-
-import os
-import colorama
-import time
-import sys
-from colorama import  Fore,Style
-R = Fore.RED
-B = Fore.BLUE
-G = Fore.GREEN
-C = Fore.CYAN
-Y = Fore.YELLOW
-M = Fore.MAGENTA
-W = Fore.WHITE
-try:
-	import colorama
-	os.system("pip install colorama")
-
 logo = f"""
 {C}  
     .  ..__.     __ .__ .__. __..  ..___.__ 

@@ -91,7 +91,7 @@ def main():
 
 def MSG():
 	print(Y)
-	YTC = input("Hello Join Us And Learn Free Ethical Hacking ? (Y/N): ")
+	YTC = input("Have U Join Us ? (Y/N): ")
 	if YTC == 'Y' or YTC == 'y':
 		print(G)
 		print("Thank You For Joining Us...\n")

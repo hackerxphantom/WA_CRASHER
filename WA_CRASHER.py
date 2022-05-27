@@ -63,7 +63,7 @@ def main():
 	print()
 	num=input(f"{G}[{Y}+{G}]{M} Enter the Victim's Phone number\n\n{C}=> {cncode}  ")
 	print()
-	crash=int(input(f'{G}[{Y}+{G}]{M} Enter the number of crashes {W}(Max 45 per 30min) \n\n{C}=> '))
+	crash=int(input(f'{G}[{Y}+{G}]{M} Enter the number of crashes {W}(Max 15 per 30min) \n\n{C}=> '))
 	combnum = f"+{cncode}{num}"
 	print()
 	Finalcall=input(f'{G}[?]{W} Do You Want To Change NO.{W}{combnum} {R}(Y/N)\n\n{C}=> ')

@@ -102,9 +102,9 @@ def MSG():
 		main()
 	elif YTC == 'N' or YTC == 'n':
 		print("")
-		os.system("xdg-open https://xphanttom.blogspot.com/p/join-whatsapp-group.html")
+		os.system("xdg-open https://hackerxphantom.blogspot.com/p/join-whatsapp-group.html")
 		time.sleep(8)
-		os.system("xdg-open https://xphanttom.blogspot.com/p/join-whatsapp-group.html")
+		os.system("xdg-open https://hackerxphantom.blogspot.com/p/join-whatsapp-group.html")
 		time.sleep(3)
 		print(W + "\n\n")
 		main()

